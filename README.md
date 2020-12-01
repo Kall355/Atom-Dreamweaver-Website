@@ -6,4 +6,4 @@
 
 #OpenSource- #Everything I've used is open source besides Dreamweaver which you can use for like a 7 day trial. Atom is a great alternative. You can download plugins that do just about the same thing as Dreamweaver. If you need help setting up Atom there are youtube videos showing how and blog post to help also. Atom also has their own GitHub so there's that too.
 
-#Notice- #This is a work in progress project. Will update as I finish each page. You can use this as a templete if you want. Don't have to change anything if you don't want to. You can add or take away any code you want. If you do use it would like to know how you like it but I'll leave all that up to you. Just have fun with it.
+#Notice- #This is a work in progress project. Will update as I finish each page. You can use this as a templete if you want. You don't have to change anything if you don't want to. You can add or take away any code you want. If you end up using this let me know how you if you like by giving it a star. Just have fun with it.
